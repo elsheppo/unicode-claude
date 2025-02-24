@@ -1,0 +1,2 @@
+MIT License. 
+Created by Shep Bryan, inspired by Thinking Claude, available for all to use and explore with no strings attached.
