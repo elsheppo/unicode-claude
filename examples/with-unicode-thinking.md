@@ -1,10 +1,13 @@
 # Unicode Thinking Example
 
 > Creating a maturity diagnostic for knowledge structuring capabilities.
-> Since Unicode Thinking is more token intensive, Claude hits a 'max length' more frequently. Claude's output here was generated with numerous instances of the user saying "Continue" in the chat once max response length was reached.
-> Total token usage according to OpenAI Tokenizer: 22,000 tokens
-> Usage compared to [non-unicode thinking]([url](https://github.com/elsheppo/unicode-claude/blob/main/examples/thinking-without-unicode.md)): 4570 tokens
-> This method is really only viable for Claude.ai chat usage and not API-based use cases due to the increased token consumption.
+
+Since Unicode Thinking is more token intensive, Claude hits a 'max length' more frequently. Claude's output here was generated with numerous instances of the user saying "Continue" in the chat once max response length was reached.
+
+* Total token usage according to OpenAI Tokenizer: 22,000 tokens
+* Usage compared to [non-unicode thinking]([url](https://github.com/elsheppo/unicode-claude/blob/main/examples/thinking-without-unicode.md)): 4570 tokens
+
+This method is really only viable for Claude.ai chat usage and not API-based use cases due to the increased token consumption.
 
 ---
 
