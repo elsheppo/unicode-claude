@@ -4,6 +4,8 @@
 
 This enhanced protocol builds on the original [Thinking Claude](https://github.com/richards199999/Thinking-Claude) project, adding the visual dimension of Unicode styling while preserving the comprehensive thinking structure, and unlocking new latent space for reasoning through forced use of alternate tokenization.
 
+![alt text](https://github.com/elsheppo/unicode-claude/blob/main/thinking-in-unicode.png?raw=true)
+
 ## Overview
 
 Unicode Thinking Claude enhances Claude's thinking protocol by visually distinguishing different modes of reasoning through Unicode text styling. This creates an intuitive visual hierarchy that makes complex AI reasoning more transparent and easier to follow, while potentially unlocking different cognitive pathways within the model itself.
